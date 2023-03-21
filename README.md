@@ -6,4 +6,4 @@ The data manipulation tasks such as reshaping, grouping, and computing summary s
 A sample dataset is obtained from NCBS-GEO:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE183947
 
-I was inspired by a YouTube video (https://www.youtube.com/watch?v=RukuTtiY4Sg) that demonstrated data visualization techniques in R.
+(inspired by a YouTube video (https://www.youtube.com/watch?v=RukuTtiY4Sg) that demonstrated data visualization techniques in R)
